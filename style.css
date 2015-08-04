@@ -1,23 +1,23 @@
 body {
-    background-color: #f44336;
-    height: 100%;
-    margin: 0;
-    padding: 0;
+  background-color: #f44336;
+  height: 100%;
+  margin: 0;
+  padding: 0;
 }
 #clockParent {
-    width: 100%;
-    height: 200px;
-    text-align: center;
-    margin: auto;
-    position: absolute;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
+  width: 100%;
+  height: 200px;
+  text-align: center;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
 
 }
 #clock {
-    color: #ffffff;
-    font-size: 200px;
-    font-family: monospace;
+  color: #ffffff;
+  font-size: 200px;
+  font-family: monospace;
 }
